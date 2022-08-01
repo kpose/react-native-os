@@ -37,3 +37,4 @@ public final class RNOSModule implements ReactPackage {
             ReactApplicationContext reactContext) {
         return Collections.emptyList();
     }
+}
